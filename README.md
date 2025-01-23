@@ -27,4 +27,8 @@
 ![Transformers](https://img.shields.io/badge/-Transformers-FFDF00?logo=&logoColor=black&style=flat)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD54F?logo=huggingface&logoColor=black&style=flat)
 ![LDA Modeling](https://img.shields.io/badge/-LDA%20Modeling-4B0082?logo=&logoColor=white&style=flat)
+
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat)
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white&style=flat)
+![Orange3](https://img.shields.io/badge/-Orange3-FF8800?logo=orange&logoColor=white&style=flat)
 ![CATIA](https://img.shields.io/badge/-CATIA-005BAC?logo=dassault&logoColor=white&style=flat)
