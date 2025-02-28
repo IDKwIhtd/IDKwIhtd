@@ -1,8 +1,8 @@
 ### 🚀 Technologies & Tools
 
 #### 🧑‍💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 
 #### 🚀 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
