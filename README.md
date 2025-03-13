@@ -31,7 +31,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=&logoColor=white&style=flat)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C76A1?logo=&logoColor=white&style=flat)
 
-#### 🤖 Machine Learning & AI
+#### 🤖 ML/DL & AI
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
