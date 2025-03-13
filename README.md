@@ -40,6 +40,14 @@
 ![Transformers](https://img.shields.io/badge/-Transformers-FFDF00?logo=&logoColor=black&style=flat)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD54F?logo=huggingface&logoColor=black&style=flat)
 ![LDA](https://img.shields.io/badge/-LDA-4B0082?style=flat&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+
+## 💬 Chatbot Development
+![LangChain](https://img.shields.io/badge/-LangChain-FFCC00?logo=&logoColor=black&style=flat)
+![AnythingLLM](https://img.shields.io/badge/-AnythingLLM-1A202C?logo=&logoColor=white&style=flat)
+![GPT-4](https://img.shields.io/badge/-GPT--4-8A2BE2?logo=openai&logoColor=white&style=flat)
+![Claude](https://img.shields.io/badge/-Claude-FFBF00?logo=&logoColor=white&style=flat)
 
 #### 🔧 Others
 ![Orange3](https://img.shields.io/badge/-Orange3-FF8800?logo=orange&logoColor=white&style=flat)
