@@ -6,9 +6,9 @@
 
 #### 🚀 Frameworks & Libraries
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
+![JSX](https://img.shields.io/badge/-JSX-F7DF1E?logo=react&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat)
-![JSX](https://img.shields.io/badge/-JSX-F7DF1E?logo=react&logoColor=white&style=flat)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)  
   
